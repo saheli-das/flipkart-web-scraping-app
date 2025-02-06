@@ -1,0 +1,8 @@
+streamlit
+requests
+bs4
+pandas
+matplotlib.pyplot
+seaborn
+re
+collections
