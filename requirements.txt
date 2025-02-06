@@ -2,7 +2,7 @@ streamlit
 requests
 bs4
 pandas
-matplotlib.pyplot
+matplotlib
 seaborn
 re
 collections
