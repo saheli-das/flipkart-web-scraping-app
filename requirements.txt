@@ -1,8 +1,9 @@
-streamlit
-requests
-bs4
 pandas
-matplotlib
 seaborn
 re
 collections
+streamlit==1.42.0
+requests==2.32.3
+beautifulsoup4==4.12.3  # Instead of bs4
+pandas==2.2.3
+matplotlib==3.8.2
